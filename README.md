@@ -1,5 +1,3 @@
-Sure! Here's a detailed **Project Description** and **Key Points** for your **3D Flip** project — you can use it for your GitHub README, project report, or portfolio.
-
 ---
 
 ## 🎯 Project Title: **3D Flip Animation**
@@ -72,5 +70,3 @@ The main focus of the project is to explore **CSS 3D transformations**, transiti
 Imagine a portfolio page where each project is displayed as a card. When the user hovers over or clicks on the card, it flips to show more details — such as the project description, technologies used, and a "View Project" button.
 
 ---
-
-Let me know if you want this tailored for a specific use (like a resume, presentation, or GitHub README), or if you’d like me to write the code or preview too!
